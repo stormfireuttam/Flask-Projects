@@ -1,0 +1,2 @@
+Hi, I’m Akhil, I am a Python Full Stack Developer with 1+ years of experience in building API-driven and web-based applications.
+I primarily work with Python and FastAPI to create efficient RESTful APIs, and I also handle front-end development using JavaScript, HTML, CSS, and Bootstrap.
